@@ -37,6 +37,4 @@ Due to security and licensing, the full source code is **not publicly available*
 
 ---
 
-### 📣 Follow for updates:
-- Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- Telegram: [t.me/yourchannel](https://t.me/yourchannel)
+
