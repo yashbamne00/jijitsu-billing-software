@@ -18,7 +18,7 @@ A clean, offline desktop billing software for retail shops — built with Python
 
 | Billing UI | Print Preview | Activation |
 |------------|---------------|------------|
-| ![](screenshots/ui.png) | ![](screenshots/bill-print.png) | ![](screenshots/activation-window.png) |
+| ![](./ui.png) | ![](./bill-print.png) | ![](./activation-window.png) |
 
 ---
 
