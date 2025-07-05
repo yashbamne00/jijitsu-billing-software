@@ -25,8 +25,9 @@ A clean, offline desktop billing software for retail shops — built with Python
 ### 💼 Want to Use or Buy?
 This is a commercial product.  
 📞 Contact: **`+91-XXXXXXXXXX`**  
-📩 Email: **`your@email.com`**  
-💰 One-time license: ₹XXX only  
+📩 Email: **`yashbamne00@email.com`**  
+💰 One-time license: ₹10,000 only 
+💰 Monthly license: ₹500 only
 ✅ Includes lifetime support and updates
 
 ---
